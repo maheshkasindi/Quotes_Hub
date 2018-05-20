@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Tech Mahesh\\ApkProjects\\Awesome Wallpapers\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Tech Mahesh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\0f690a8bab661c19aba8a647ef168caf\\res\\values-be\\values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "108",
+                        "endOffsets": "159"
+                    }
+                }
+            ]
+        }
+    ]
+}

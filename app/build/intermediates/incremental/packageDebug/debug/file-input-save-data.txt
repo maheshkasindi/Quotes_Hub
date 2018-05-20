@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun May 20 06:52:18 IST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Tech Mahesh\\ApkProjects\\Awesome Wallpapers\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

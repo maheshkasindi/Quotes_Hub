@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:2:1-46:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\efa413d0dc44fde0b844da813f449034\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\277da23f325db6c188f3224bef5039c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b0997e671cba8ff45393220222bc263a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\4bde36d71ae5e36fe55bd56484557b24\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8adcd37612cee0a6794ed58caa72e2f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0f690a8bab661c19aba8a647ef168caf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e8199c214cee79ba5774c29492e4e2e4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\265c8a97b72db530b9c5e9a2a5b0f133\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\494559455b4fbfe802e302010dc2f862\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\721ff483b00fe4e6d7e5237f2495a72d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\efa413d0dc44fde0b844da813f449034\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\efa413d0dc44fde0b844da813f449034\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\277da23f325db6c188f3224bef5039c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\277da23f325db6c188f3224bef5039c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b0997e671cba8ff45393220222bc263a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b0997e671cba8ff45393220222bc263a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\4bde36d71ae5e36fe55bd56484557b24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\4bde36d71ae5e36fe55bd56484557b24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8adcd37612cee0a6794ed58caa72e2f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8adcd37612cee0a6794ed58caa72e2f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0f690a8bab661c19aba8a647ef168caf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0f690a8bab661c19aba8a647ef168caf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e8199c214cee79ba5774c29492e4e2e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e8199c214cee79ba5774c29492e4e2e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\265c8a97b72db530b9c5e9a2a5b0f133\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\265c8a97b72db530b9c5e9a2a5b0f133\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\494559455b4fbfe802e302010dc2f862\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\494559455b4fbfe802e302010dc2f862\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\721ff483b00fe4e6d7e5237f2495a72d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Tech Mahesh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\721ff483b00fe4e6d7e5237f2495a72d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:13:5-72
+	android:name
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:13:22-69
+application
+ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:15:5-44:19
+	android:label
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:18:9-45
+	android:allowBackup
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:20:9-45
+	android:name
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:16:9-58
+activity#com.techm.mahesh.SplashActivity
+ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:screenOrientation
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:22:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.techm.mahesh.MainActivity
+ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:31:9-34:20
+	android:screenOrientation
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:32:13-57
+activity#com.techm.mahesh.FullScreenViewActivity
+ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:35:9-38:20
+	android:screenOrientation
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:36:13-67
+activity#com.techm.mahesh.SettingsActivity
+ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:39:9-43:20
+	android:screenOrientation
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:41:13-52
+	android:name
+		ADDED from C:\Users\Tech Mahesh\ApkProjects\Awesome Wallpapers\app\src\main\AndroidManifest.xml:40:13-61

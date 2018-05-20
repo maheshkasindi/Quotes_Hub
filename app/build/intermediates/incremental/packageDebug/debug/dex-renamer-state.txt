@@ -1,0 +1,4 @@
+#Sun May 20 06:52:17 IST 2018
+base.0=C\:\\Users\\Tech Mahesh\\ApkProjects\\Awesome Wallpapers\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
